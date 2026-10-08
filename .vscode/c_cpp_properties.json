@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Program Files (x86)\\Labcenter Electronics\\Proteus 8 Professional\\Tools\\ARDUINO\\hardware\\tools\\avr\\avr\\include",
+                "C:\\Program Files (x86)\\Labcenter Electronics\\Proteus 8 Professional\\Tools\\ARDUINO\\hardware\\tools\\avr\\lib\\gcc\\avr\\4.9.2\\include",
+                "C:\\Program Files (x86)\\Labcenter Electronics\\Proteus 8 Professional\\Tools\\ARDUINO\\hardware\\tools\\avr\\bin\\avr-gcc.exe"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:\\Program Files (x86)\\Labcenter Electronics\\Proteus 8 Professional\\Tools\\ARDUINO\\hardware\\tools\\avr\\bin\\avr-gcc.exe",
+            "compilerArgs": [
+                "-mmcu=atmega32"
+            ],
+            "intelliSenseMode": "gcc-x86"
+        }
+    ],
+    "version": 4
+}
